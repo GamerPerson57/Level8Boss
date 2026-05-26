@@ -278,10 +278,6 @@ function animate()
 	context.textAlign = "center";
 	context.fillText("Jump Boost Mechanic: Press and hold Z to boost up to higher places!", canvas.width/2, canvas.height/2 - 350);
 
-	context.fillStyle = "black";
-	context.font = "20px Arial";
-	context.textAlign = "center";
-	context.fillText("Hint: The longer you hold, the higher you'll jump.", canvas.width/2, canvas.height/2 - 300);
 
 
 
