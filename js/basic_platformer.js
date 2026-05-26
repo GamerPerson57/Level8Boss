@@ -279,8 +279,6 @@ function animate()
 	context.fillText("Jump Boost Mechanic: Press and hold Z to boost up to higher places!", canvas.width/2, canvas.height/2 - 350);
 
 
-
-
 	//  |-------Controls & Actions-------|
 
 	// ---> Jumping
