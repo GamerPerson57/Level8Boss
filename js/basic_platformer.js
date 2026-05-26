@@ -242,18 +242,18 @@ function animate()
 	// Key(s)
 
 	// ---> Key0
-	isTouchingItem = (
-		key0.hitTestPoint(player.right())  ||
-		key0.hitTestPoint(player.left())   ||
-		key0.hitTestPoint(player.top())    ||
-		key0.hitTestPoint(player.bottom())
-	);
+	// isTouchingItem = (
+	// 	key0.hitTestPoint(player.right())  ||
+	// 	key0.hitTestPoint(player.left())   ||
+	// 	key0.hitTestPoint(player.top())    ||
+	// 	key0.hitTestPoint(player.bottom())
+	// );
 
-	while(key0.hitTestPoint(player.right())) 
-	{
-		player.x--;
-		player.vx = 0;
-	}
+	// while(key0.hitTestPoint(player.right())) 
+	// {
+	// 	player.x--;
+	// 	player.vx = 0;
+	// }
 		
 	
 //  |-------Drawing Objects-------|
